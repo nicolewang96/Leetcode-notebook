@@ -1,6 +1,6 @@
 # Hash Table
 
-### C++ STL:
+## C++ STL:
 
 - Array: `vector<string> dict[10];` index为key，string为value
 - Map: `unordered_map<type1,type2> dict;`
@@ -13,6 +13,7 @@
 ## Leetcode 594 Longest Harmonious Subsequence
 
 #### Q:找到一个最长子序列，要求子序列的最小值和最大值差为1（子序列不要求连续）
+
 ```cpp
 unordered_map<int,int> dict; 
 for(auto c:nums) dict[c]++; //put key and value into hash table
