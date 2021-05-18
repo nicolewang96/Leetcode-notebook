@@ -5,26 +5,26 @@
 # Data Structure
 
 - [Hash Table](Hash%20Table.md)
-- [Tree]((Hash%Table%20-%20双指针.md))
-- Heap
-- Linklist
-- Stack
-- Queue
+- [Tree](Tree.md)
+- [Heap](Heap.md)
+- [Linklist](Linklist.md)
+- [Stack](Stack.md)
+- [Queue](Queue.md)
 
 
 
 # Algorithm
 
-- Dynamic Programming
-- 分治
-- 卡特兰数
-- Binary Search
-- 搜索问题
-- Math
-- 排序
-- Sliding Windows
-- 贪心算法
-- 位运算
+- [Dynamic Programming](Dynamic%20Programming.md)
+- [分治](分治.md)
+- [卡特兰数](卡特兰数.md)
+- [Binary Search](Binary%20Search.md)
+- [搜索问题](搜索问题.md)
+- [Math](Math.md)
+- [排序](排序.md)
+- [Sliding Windows](Sliding%20Windows.md)
+- [贪心算法](贪心算法.md)
+- [位运算](位运算.md)
 
 
 ### Reference
