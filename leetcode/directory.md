@@ -4,8 +4,8 @@
 
 # Data Structure
 
-- [Hash Table](Leetcode%20题解%20-%20双指针.md)
-- Tree
+- [Hash Table](Hash%Table.md)
+- [Tree]((Hash%Table%20-%20双指针.md))
 - Heap
 - Linklist
 - Stack
