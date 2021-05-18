@@ -4,7 +4,7 @@
 
 # Data Structure
 
-- [Hash Table](Hash%Table.md)
+- [Hash Table](Hash%20Table.md)
 - [Tree]((Hash%Table%20-%20双指针.md))
 - Heap
 - Linklist
