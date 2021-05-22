@@ -27,11 +27,18 @@ git reflog     //查看之前的工作日志
 ```
 
 ## 版本回退
+
+![时间线](https://github.com/nicolewang96/Leetcode-notebook/raw/main/pictures/分支1.png)
+
 ```
 git reset --hard HEAD^     //退回到上一个版本（上上个:HEAD^^ 上一百个:HEAD~100）
 git reset --hard commit_id  //在退回到以前的版本且想要回到最新版本，可以在后面写上部分新版本的commit id（不用写完整，可以看之前的log）
 ```
 Git的版本回退速度非常快，因为Git在内部有个指向当前版本的HEAD指针，当你回退版本的时候，Git仅仅是把HEAD从指向最新的版本
+
+## Git版本库
+![Git版本库](https://github.com/nicolewang96/Leetcode-notebook/raw/main/pictures/Git版本库.jpg)
+
 
 ## 撤销修改
 1. 仅在工作区进行了修改，但是想撤销这次修改
@@ -81,6 +88,9 @@ git commit -m "First Commit"         //用git commit告诉Git，把文件提交�
 ```
 
 ## 分支
+
+![分支](https://github.com/nicolewang96/Leetcode-notebook/raw/main/pictures/分支2.png)
+
 ```
 git switch -b dev  //创建dev分支，并切换到新分支(-b:创建、切换) —相当于git branch dev + git switch dev
 git branch dev   //创建分支
