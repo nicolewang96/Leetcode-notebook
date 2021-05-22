@@ -8,3 +8,4 @@ Thank you these bloggers who provide me with several nice formats and md codes! 
 
 1. [grandyang](https://github.com/grandyang/leetcode)
 2. [cyc2018](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20题解%20-%20目录.md)
+3. [廖雪峰git教材](https://www.liaoxuefeng.com/wiki/896043488029600/896827951938304)
